@@ -1,0 +1,5 @@
+name: NoBlockFallingPlugin
+version: '${project.version}'
+main: noblockfalling.noblockfallingplugin.NoBlockFallingPlugin
+api-version: 1.14
+load: STARTUP
